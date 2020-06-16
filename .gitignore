@@ -1,0 +1,4 @@
+__pycache__/
+*.bak
+plotinpy.egg-info/
+/dist/
